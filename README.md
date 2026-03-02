@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there! ≽^•⩊•^≼
+In this github, you will mostly see my projects that are purely made for the funzies
 
-<!--
-**Thecosmiccat/Thecosmiccat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If any links to projects dont work, its likely that i just took them down(which most likely wont). (if you want them just use the wayback machine)
 
-Here are some ideas to get you started:
+### Projects₍^. .^₎⟆:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Hr management sim (python)](https://github.com/Thecosmiccat/HR-sim)
+- [Rock paper scissor battle royal](https://thecosmiccat.github.io/RPS-battle-royal/)
+- [Tetris](https://thecosmiccat.github.io/Tetris)
+- [Sparx times table solver](https://github.com/Thecosmiccat/sparx-times-table-solver)
+
+
+
+
