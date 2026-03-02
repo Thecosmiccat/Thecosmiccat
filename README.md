@@ -9,7 +9,7 @@ If any links to projects dont work, its likely that i just took them down(which 
 - [Rock paper scissor battle royale](https://thecosmiccat.github.io/RPS-battle-royal/)
 - [Tetris](https://thecosmiccat.github.io/Tetris)
 - [Sparx times table solver](https://github.com/Thecosmiccat/sparx-times-table-solver)
-- [Meow paint](https://thecosmiccat.github.io/etch-a-sketch/)
+- [Meow paint](https://thecosmiccat.github.io/meow-paint/)
 
 
 
