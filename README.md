@@ -10,6 +10,6 @@ If any links to projects dont work, its likely that i just took them down(which 
 - [Tetris](https://thecosmiccat.github.io/Tetris)
 - [Sparx times table solver](https://github.com/Thecosmiccat/sparx-times-table-solver)
 - [Meow paint](https://thecosmiccat.github.io/meow-paint/)
-
+- [Meow weather](https://thecosmiccat.github.io/meow-weather/)
 
 
