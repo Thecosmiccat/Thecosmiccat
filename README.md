@@ -1,4 +1,4 @@
-## Hello there! ≽^•⩊•^≼
+## Hello there! ฅ(•- •マ
 In this github, you will mostly see my projects that are purely made for the funzies
 
 If any links to projects dont work, its likely that i just took them down(which most likely wont). (if you want them just use the wayback machine)
@@ -9,7 +9,7 @@ If any links to projects dont work, its likely that i just took them down(which 
 - [Rock paper scissor battle royale](https://thecosmiccat.github.io/RPS-battle-royal/)
 - [Tetris](https://thecosmiccat.github.io/Tetris)
 - [Sparx times table solver](https://github.com/Thecosmiccat/sparx-times-table-solver)
-- [Etch a sketch](https://thecosmiccat.github.io/etch-a-sketch/)
+- [Meow paint](https://thecosmiccat.github.io/etch-a-sketch/)
 
 
 
