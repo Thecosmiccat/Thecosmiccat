@@ -12,5 +12,6 @@ If any links to projects dont work, its likely that i just took them down(which 
 - [Meow paint](https://thecosmiccat.github.io/meow-paint/)
 - [Meow weather](https://thecosmiccat.github.io/meow-weather/)
 - [LyPy(mac)](https://github.com/Thecosmiccat/LyPy-mac)
+- [Todo list](https://thecosmiccat.github.io/Todo-list-/)
 
 
