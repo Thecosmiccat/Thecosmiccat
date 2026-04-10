@@ -6,6 +6,7 @@ If any links to projects dont work, its likely that i just took them down(which 
 ### Projects₍^. .^₎⟆:
 
 - [Hr management sim (python)](https://github.com/Thecosmiccat/HR-sim)
+- [Cat-ime](https://thecosmiccat.github.io/cat-ime/)
 - [Rock paper scissor battle royale](https://thecosmiccat.github.io/RPS-battle-royal/)
 - [Tetris](https://thecosmiccat.github.io/Tetris)
 - [Sparx times table solver](https://github.com/Thecosmiccat/sparx-times-table-solver)
@@ -14,6 +15,6 @@ If any links to projects dont work, its likely that i just took them down(which 
 - [LyPy(mac)](https://github.com/Thecosmiccat/LyPy-mac)
 - [Todo list](https://thecosmiccat.github.io/Todo-list-/)
 - [Meow reader](https://thecosmiccat.github.io/meow-reader-epub-reader-/)
-- [Cat-ime](https://thecosmiccat.github.io/cat-ime/)
+
 
 
