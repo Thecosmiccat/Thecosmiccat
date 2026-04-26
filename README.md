@@ -5,8 +5,8 @@ If any links to projects dont work, its likely that i just took them down(which 
 
 ### Projects₍^. .^₎⟆:
 
-- [Hr management sim (python)](https://github.com/Thecosmiccat/HR-sim)
-- [Cat-ime](https://thecosmiccat.github.io/cat-ime/)
+- [Hr management sim (python)](https://github.com/Thecosmiccat/HR-sim) (first ever project)
+- [Cat-ime](https://thecosmiccat.github.io/cat-ime/) (proudest project)
 - [Rock paper scissor battle royale](https://thecosmiccat.github.io/RPS-battle-royal/)
 - [Tetris](https://thecosmiccat.github.io/Tetris)
 - [Sparx times table solver](https://github.com/Thecosmiccat/sparx-times-table-solver)
