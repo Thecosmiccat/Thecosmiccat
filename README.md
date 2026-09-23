@@ -3,6 +3,8 @@ In this github, you will mostly see my projects that are purely made for the fun
 
 If any links to projects dont work, its likely that i just took them down(which most likely wont). (if you want them just use the wayback machine or just copy my code and host it urself)
 
+Ps. CAELESTIA ON TOP 🔛🔝
+
 ### Projects₍^. .^₎⟆:
 
 - [Casmos(soon :3)](https://github.com/Thecosmiccat/Casmos) (current)
