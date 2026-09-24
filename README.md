@@ -7,7 +7,7 @@ Ps. CAELESTIA ON TOP 🔛🔝
 
 ### Projects₍^. .^₎⟆:
 
-- [Casmos(soon :3)](https://github.com/Thecosmiccat/Casmos) (current)
+- [Casmos(V1!)](https://github.com/Thecosmiccat/Casmos) (current)
 - [Hr management sim (python)](https://github.com/Thecosmiccat/HR-sim) (first ever project)
 - [Rock paper scissor battle royale](https://thecosmiccat.github.io/RPS-battle-royal/)
 - [Tetris](https://thecosmiccat.github.io/Tetris)
