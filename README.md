@@ -15,6 +15,7 @@ If any links to projects dont work, its likely that i just took them down(which 
 - [LyPy(mac)](https://github.com/Thecosmiccat/LyPy-mac)
 - [Todo list](https://thecosmiccat.github.io/Todo-list-/)
 - [Meow reader](https://thecosmiccat.github.io/meow-reader-epub-reader-/)
+- NO MORE CATIME
 
 ### Coming soon ฅ^>⩊<^ ฅ
 - Jeff the button
